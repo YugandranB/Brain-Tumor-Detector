@@ -23,7 +23,7 @@
 
 ---
 ## 🛠 Installation
-```bash
+bash
 # Clone this repository
 git clone https://github.com/yourgithubusername/brain-tumor-detection.git
 cd brain-tumor-detection
@@ -31,7 +31,6 @@ cd brain-tumor-detection
 # Install dependencies
 pip install -r requirements.txt
 
----
 
 
 ## Sample Detection Results
