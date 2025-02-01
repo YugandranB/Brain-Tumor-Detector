@@ -33,6 +33,15 @@ pip install -r requirements.txt
 
 
 ---
+
+## Sample Detection Results
+
+- **✅ Positive Detection (Tumor)**  
+  ![Positive Tumor Sample](https://drive.google.com/uc?id=1SiTb7Oo0mHFV69iQTxxutTRG-fXRIzVX)
+
+- **❌ Negative Detection (No Tumor)**  
+  ![Negative Tumor Sample](https://drive.google.com/uc?id=1J4_V-yH9lqAxhVODWF1HKBP9gTvENVB7)
+---
 ## 🎯 Usage
 ### 🔍 Training the Model
 bash
