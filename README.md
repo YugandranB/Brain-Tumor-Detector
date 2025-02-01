@@ -30,3 +30,51 @@ cd brain-tumor-detection
 
 # Install dependencies
 pip install -r requirements.txt
+
+---
+## 🎯 Usage
+### 🔍 Training the Model
+```bash
+python train.py
+📊 Evaluating the Model
+bash
+Copy
+Edit
+python evaluate.py
+🏷 Making Predictions
+bash
+Copy
+Edit
+python predict.py --image path/to/image.jpg
+🖼️ Sample Detection Results
+✅ Positive Detection (Tumor)
+
+❌ Negative Detection (No Tumor)
+
+📈 Model Performance
+Model	Accuracy	Precision	Recall	F1 Score
+VGG16	🏆 97.0%	0.988	0.964	0.976
+EfficientNetB0	95.8%	0.970	0.964	0.967
+MobileNetV2	95.1%	0.975	0.946	0.960
+DenseNet121	94.3%	0.987	0.922	0.954
+👨‍💻 Contributors
+P. Sri Sathwik
+Yugandran B.
+Om Bandyopadhyay
+B. Prakash
+Selvanayaki Kolandapalayam Shanmugam
+📜 Citation
+If you use this work, please cite:
+
+bibtex
+Copy
+Edit
+@article{Sathwik2024BrainTumor,
+  author    = {P. Sri Sathwik, Yugandran B., Om Bandyopadhyay, B. Prakash, Selvanayaki Kolandapalayam Shanmugam},
+  title     = {Brain Tumor Detection using VGG16 CNN with Data Augmentation},
+  journal   = {IEEE},
+  year      = {2024},
+  doi       = {10.1109/NMITCON.2024.10698772}
+}
+📜 License
+📖 This project is licensed under the MIT License.
