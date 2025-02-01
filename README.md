@@ -39,7 +39,8 @@ pip install -r requirements.txt
   Sample Image: [Positive Tumor Sample](https://drive.google.com/file/d/1SiTb7Oo0mHFV69iQTxxutTRG-fXRIzVX/view?usp=sharing) 
 
 - **❌ Negative Detection (No Tumor)**  
-  Sample Image: [Negative Tumor Sample](https://drive.google.com/file/d/1J4_V-yH9lqAxhVODWF1HKBP9gTvENVB7/view?usp=sharing)
+  Sample Image: [Negative Tumor Sample](https://drive.google.com/file/d/1J4_V-yH9lqAxhVODWF1HKBP9gTvENVB7/view?usp=sharing) 
+
 
 
 ---
